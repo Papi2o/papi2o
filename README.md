@@ -26,3 +26,6 @@ I’m currently learning Python And C#.</br>I’m looking for help with Design P
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+<a href="https://github.com/papi2o/handle-path-oz">
+    <img width="55%" align="right" alt="Papi2o's github stats" src="https://github-readme-stats.vercel.app/api?username=papi2o&show_icons=true&theme=onedark&hide_border=True" />
+  </a>
