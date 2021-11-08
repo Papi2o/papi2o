@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: [info@kaviya.me](https://t.me/papi2o);
+- 📫 How to reach me: [info@papito.me](https://t.me/papi2o);
 
 **Languages and Tools:** 
 
